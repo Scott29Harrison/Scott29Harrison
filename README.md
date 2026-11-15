@@ -7,7 +7,6 @@ I'm a Data Science and AI graduate passionate about building machine learning sy
 ## What I work with
 
 - Machine Learning & Predictive Analytics
-- Generative AI & Agentic AI
 - Deep Learning
 - Data Engineering
 - Cloud-Based Analytics Solutions
