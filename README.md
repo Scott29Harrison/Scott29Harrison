@@ -1,10 +1,10 @@
-## Hi, I'm Scott
+# Hi, I'm Scott
 
 
 I'm a Data Science and AI graduate passionate about building machine learning systems that solve real-world problems.
 
 
-# What I work with
+## What I work with
 
 - Machine Learning & Predictive Analytics
 - Generative AI & Agentic AI
@@ -13,11 +13,11 @@ I'm a Data Science and AI graduate passionate about building machine learning sy
 - Cloud-Based Analytics Solutions
 
 
-# Tech Stack
+## Tech Stack
 Python • Pandas • NumPy • Scikit-Learn • CatBoost • TensorFlow • PyTorch • SQL • R • Java • Git
 
 
-# Areas of Interest
+## Areas of Interest
 
 - AI-powered decision support systems
 - Forecasting and optimisation
